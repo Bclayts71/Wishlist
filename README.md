@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Wishlist](https://user-images.githubusercontent.com/69495267/216849891-46598039-3b9c-48eb-8c12-f6295a2f685a.gif)
+![Wishlist](https://user-images.githubusercontent.com/69495267/217635230-e687430e-bf40-443b-b094-682cbb4a1b86.gif)
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
